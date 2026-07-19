@@ -1,0 +1,913 @@
+{
+    "title": "East St. Louis County",
+    "subtitle": "Cities, Neighborhoods & Hidden Gems",
+    "author": "A GeoNarrative",
+    "map": {
+        "center": [
+            -90.09,
+            38.63
+        ],
+        "zoom": 11,
+        "basemaps": [
+            {
+                "id": "osm",
+                "type": "osm",
+                "label": "Street Map"
+            },
+            {
+                "id": "topo",
+                "type": "xyz",
+                "label": "Topo",
+                "url": "https://tile.opentopomap.org/{z}/{x}/{y}.png",
+                "attribution": "© OpenTopoMap contributors"
+            },
+            {
+                "id": "satellite",
+                "type": "xyz",
+                "label": "Satellite",
+                "url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
+                "attribution": "Tiles © Esri"
+            }
+        ],
+        "wmsLayers": [
+            {
+                "id": "mo_counties",
+                "label": "MO Counties (WMS)",
+                "visible": true,
+                "showInPanel": true,
+                "url": "https://tigerweb.geo.census.gov/arcgis/services/TIGERweb/tigerWMS_Current/MapServer/WMSServer",
+                "layers": "1",
+                "version": "1.3.0",
+                "format": "image/png",
+                "transparent": true
+            },
+            {
+                "id": "wms_geo",
+                "label": "wms_geo",
+                "visible": true,
+                "showInPanel": true,
+                "url": "https://carto.nationalmap.gov/arcgis/services/geonames/MapServer/WMSServer",
+                "layers": "1,2,3,4",
+                "version": "1.3.0",
+                "format": "image/png",
+                "transparent": true
+            }
+        ],
+        "vectorLayers": [
+            {
+                "id": "stl_neighborhoods",
+                "label": "STL County Boundaries",
+                "url": "https://geo.edesma.org/geojson/SLCountyNeighborhoods.json",
+                "visible": true,
+                "showInPanel": true,
+                "style": {
+                    "type": "polygon",
+                    "fill": "rgba(0,0,0,0)",
+                    "stroke": "#000000",
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "id": "stl_neighborhoods_labels",
+                "label": "STL County Labels",
+                "labelsFor": "stl_neighborhoods",
+                "visible": true,
+                "showInPanel": true,
+                "minZoom": 11,
+                "style": {
+                    "type": "label",
+                    "field": "MUNICIPALI",
+                    "font": "12px Calibri,sans-serif",
+                    "fill": "#000000",
+                    "haloColor": "#ffffff",
+                    "haloWidth": 3,
+                    "overflow": true,
+                    "maxWidth": 16
+                }
+            },
+            {
+                "id": "municipalities",
+                "label": "Cities & Towns",
+                "showInPanel": true,
+                "visible": true,
+                "style": {
+                    "type": "polygon",
+                    "fill": "rgba(184,134,11,0.12)",
+                    "stroke": "#b8860b",
+                    "strokeWidth": 1.5
+                },
+                "data": {
+                    "type": "FeatureCollection",
+                    "features": [
+                        {
+                            "type": "Feature",
+                            "properties": {
+                                "name": "Clayton",
+                                "type": "City",
+                                "description": "The county seat of St. Louis County. Home to a vibrant downtown and the St. Louis County government.",
+                                "population": "17,000"
+                            },
+                            "geometry": {
+                                "type": "Polygon",
+                                "coordinates": [
+                                    [
+                                        [
+                                            -90.345,
+                                            38.637
+                                        ],
+                                        [
+                                            -90.323,
+                                            38.637
+                                        ],
+                                        [
+                                            -90.323,
+                                            38.652
+                                        ],
+                                        [
+                                            -90.345,
+                                            38.652
+                                        ],
+                                        [
+                                            -90.345,
+                                            38.637
+                                        ]
+                                    ]
+                                ]
+                            }
+                        },
+                        {
+                            "type": "Feature",
+                            "properties": {
+                                "name": "Webster Groves",
+                                "type": "City",
+                                "description": "A historic inner-ring suburb known for its Victorian architecture, Tree Streets neighborhood, and strong community character.",
+                                "population": "23,000"
+                            },
+                            "geometry": {
+                                "type": "Polygon",
+                                "coordinates": [
+                                    [
+                                        [
+                                            -90.372,
+                                            38.585
+                                        ],
+                                        [
+                                            -90.345,
+                                            38.585
+                                        ],
+                                        [
+                                            -90.345,
+                                            38.608
+                                        ],
+                                        [
+                                            -90.372,
+                                            38.608
+                                        ],
+                                        [
+                                            -90.372,
+                                            38.585
+                                        ]
+                                    ]
+                                ]
+                            }
+                        },
+                        {
+                            "type": "Feature",
+                            "properties": {
+                                "name": "Kirkwood",
+                                "type": "City",
+                                "description": "One of the first planned suburbs west of the Mississippi. Named after the railroad engineer James P. Kirkwood.",
+                                "population": "27,000"
+                            },
+                            "geometry": {
+                                "type": "Polygon",
+                                "coordinates": [
+                                    [
+                                        [
+                                            -90.42,
+                                            38.576
+                                        ],
+                                        [
+                                            -90.388,
+                                            38.576
+                                        ],
+                                        [
+                                            -90.388,
+                                            38.602
+                                        ],
+                                        [
+                                            -90.42,
+                                            38.602
+                                        ],
+                                        [
+                                            -90.42,
+                                            38.576
+                                        ]
+                                    ]
+                                ]
+                            }
+                        },
+                        {
+                            "type": "Feature",
+                            "properties": {
+                                "name": "University City",
+                                "type": "City",
+                                "description": "Home to Washington University's eastern edge and The Loop, one of the most vibrant commercial districts in the St. Louis metro.",
+                                "population": "35,000"
+                            },
+                            "geometry": {
+                                "type": "Polygon",
+                                "coordinates": [
+                                    [
+                                        [
+                                            -90.322,
+                                            38.652
+                                        ],
+                                        [
+                                            -90.295,
+                                            38.652
+                                        ],
+                                        [
+                                            -90.295,
+                                            38.678
+                                        ],
+                                        [
+                                            -90.322,
+                                            38.678
+                                        ],
+                                        [
+                                            -90.322,
+                                            38.652
+                                        ]
+                                    ]
+                                ]
+                            }
+                        },
+                        {
+                            "type": "Feature",
+                            "properties": {
+                                "name": "Maplewood",
+                                "type": "City",
+                                "description": "A compact, walkable city with a thriving Manchester Road commercial strip. Known for eclectic restaurants and indie shops.",
+                                "population": "8,000"
+                            },
+                            "geometry": {
+                                "type": "Polygon",
+                                "coordinates": [
+                                    [
+                                        [
+                                            -90.328,
+                                            38.61
+                                        ],
+                                        [
+                                            -90.31,
+                                            38.61
+                                        ],
+                                        [
+                                            -90.31,
+                                            38.626
+                                        ],
+                                        [
+                                            -90.328,
+                                            38.626
+                                        ],
+                                        [
+                                            -90.328,
+                                            38.61
+                                        ]
+                                    ]
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "coffee_shops",
+                "label": "Coffee Shops",
+                "showInPanel": true,
+                "visible": true,
+                "style": {
+                    "type": "point",
+                    "fill": "#c0392b",
+                    "stroke": "#fff",
+                    "radius": 8,
+                    "strokeWidth": 2
+                },
+                "data": {
+                    "type": "FeatureCollection",
+                    "features": [
+                        {
+                            "type": "Feature",
+                            "properties": {
+                                "name": "La Cosecha Coffee Roasters",
+                                "type": "Coffee Shop",
+                                "address": "7337 Forsyth Blvd, Clayton",
+                                "description": "Specialty single-origin coffees in the heart of Clayton's downtown.",
+                                "hours": "Mon–Fri 7am–5pm, Sat 8am–4pm"
+                            },
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    -90.334,
+                                    38.6438
+                                ]
+                            }
+                        },
+                        {
+                            "type": "Feature",
+                            "properties": {
+                                "name": "Blueprint Coffee",
+                                "type": "Coffee Shop",
+                                "address": "6225 Delmar Blvd, The Loop",
+                                "description": "Award-winning roaster. One of St. Louis's most celebrated specialty coffee destinations.",
+                                "hours": "Daily 7am–7pm"
+                            },
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    -90.3058,
+                                    38.6607
+                                ]
+                            }
+                        },
+                        {
+                            "type": "Feature",
+                            "properties": {
+                                "name": "Kaldi's Coffee — Webster Groves",
+                                "type": "Coffee Shop",
+                                "address": "8 S. Gore Ave, Webster Groves",
+                                "description": "The Webster Groves outpost of St. Louis's beloved local roaster. A neighborhood anchor since 1994.",
+                                "hours": "Daily 6:30am–8pm"
+                            },
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    -90.3556,
+                                    38.5936
+                                ]
+                            }
+                        },
+                        {
+                            "type": "Feature",
+                            "properties": {
+                                "name": "Gelateria del Leone",
+                                "type": "Coffee Shop",
+                                "address": "7734 Forsyth Blvd, Clayton",
+                                "description": "Italian-style espresso bar paired with house-made gelato. A Clayton gem.",
+                                "hours": "Tue–Sun 11am–9pm"
+                            },
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    -90.3388,
+                                    38.6442
+                                ]
+                            }
+                        },
+                        {
+                            "type": "Feature",
+                            "properties": {
+                                "name": "Coma Coffee Roasters",
+                                "type": "Coffee Shop",
+                                "address": "7260 Manchester Rd, Maplewood",
+                                "description": "Artisan roaster on the Manchester strip. Known for pour-overs and a relaxed, creative vibe.",
+                                "hours": "Mon–Sat 7am–5pm"
+                            },
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    -90.3196,
+                                    38.6168
+                                ]
+                            }
+                        },
+                        {
+                            "type": "Feature",
+                            "properties": {
+                                "name": "Picasso's Coffee House",
+                                "type": "Coffee Shop",
+                                "address": "128 W. Argonne Dr, Kirkwood",
+                                "description": "A beloved Kirkwood institution. Mismatched furniture, local art, and exceptional espresso.",
+                                "hours": "Daily 7am–9pm"
+                            },
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    -90.4062,
+                                    38.5841
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "bookstores",
+                "label": "Bookstores",
+                "showInPanel": true,
+                "visible": true,
+                "style": {
+                    "type": "point",
+                    "fill": "#2980b9",
+                    "stroke": "#fff",
+                    "radius": 8,
+                    "strokeWidth": 2
+                },
+                "data": {
+                    "type": "FeatureCollection",
+                    "features": [
+                        {
+                            "type": "Feature",
+                            "properties": {
+                                "name": "Big Sleep Books",
+                                "type": "Bookstore",
+                                "address": "7511 Forsyth Blvd, Clayton",
+                                "description": "A curated independent bookstore specializing in literary fiction, poetry, and rare finds.",
+                                "hours": "Mon–Sat 10am–7pm, Sun 11am–5pm"
+                            },
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    -90.3358,
+                                    38.6441
+                                ]
+                            }
+                        },
+                        {
+                            "type": "Feature",
+                            "properties": {
+                                "name": "EyeSeeMe African American Children's Bookstore",
+                                "type": "Bookstore",
+                                "address": "8534 Veterans Memorial Pkwy, O'Fallon",
+                                "description": "The only African American children's bookstore in Missouri. Celebrated nationally.",
+                                "hours": "Tue–Sat 10am–6pm"
+                            },
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    -90.7136,
+                                    38.7956
+                                ]
+                            }
+                        },
+                        {
+                            "type": "Feature",
+                            "properties": {
+                                "name": "Left Bank Books",
+                                "type": "Bookstore",
+                                "address": "399 N. Euclid Ave, Central West End",
+                                "description": "A St. Louis institution since 1969. Independent, community-rooted, and fiercely literary.",
+                                "hours": "Mon–Sat 10am–8pm, Sun 11am–6pm"
+                            },
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    -90.2674,
+                                    38.6454
+                                ]
+                            }
+                        },
+                        {
+                            "type": "Feature",
+                            "properties": {
+                                "name": "Novel Neighbor",
+                                "type": "Bookstore",
+                                "address": "7905 Big Bend Blvd, Webster Groves",
+                                "description": "Beloved community bookshop with a focus on children's books, local authors, and neighborhood events.",
+                                "hours": "Mon–Sat 9am–7pm, Sun 11am–5pm"
+                            },
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    -90.3572,
+                                    38.5908
+                                ]
+                            }
+                        },
+                        {
+                            "type": "Feature",
+                            "properties": {
+                                "name": "Star Clipper",
+                                "type": "Bookstore",
+                                "address": "6641 Delmar Blvd, The Loop",
+                                "description": "St. Louis's iconic comic book shop relocated to The Loop. Pop culture, graphic novels, and collectibles.",
+                                "hours": "Mon–Sat 11am–7pm, Sun 12pm–6pm"
+                            },
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    -90.307,
+                                    38.6596
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "import_json",
+                "label": "Schools Json",
+                "visible": true,
+                "showInPanel": true,
+                "style": {
+                    "type": "point",
+                    "fill": "rgba(184,40,91,0.2)",
+                    "stroke": "#4c1a75",
+                    "strokeWidth": 1.5
+                },
+                "url": "stories/data/schools.geojson"
+            },
+            {
+                "id": "femarest2",
+                "label": "Fema EOCs",
+                "visible": true,
+                "showInPanel": true,
+                "style": {
+                    "type": "point",
+                    "fill": "rgba(41,128,185,0.2)",
+                    "stroke": "#1a5276",
+                    "strokeWidth": 1.5
+                },
+                "type": "arcgis-feature",
+                "url": "https://geo.edesma.org/proxy/fema.php"
+            },
+            {
+                "id": "fire",
+                "label": "fire",
+                "visible": true,
+                "showInPanel": true,
+                "style": {
+                    "type": "point",
+                    "fill": "rgba(41,128,185,0.2)",
+                    "stroke": "#1a5276",
+                    "strokeWidth": 1.5
+                },
+                "type": "arcgis-feature",
+                "url": "https://services9.arcgis.com/RHVPKKiFTONKtxq3/ArcGIS/rest/services/USA_Wildfires_v1/FeatureServer/0"
+            }
+        ]
+    },
+    "sections": [
+        {
+            "navLabel": "The Loop",
+            "title": "University City & The Loop",
+            "text": [
+                "Delmar Boulevard, the spine of University City, hosts The Loop — a stretch of independent restaurants, music venues, bookstores, and coffee shops that has been called one of the great American main streets.",
+                "Blueprint Coffee and Star Clipper anchor the bookend of the strip, drawing a mix of Washington University students, long-time residents, and visitors from across the metro."
+            ],
+            "scene": {
+                "center": [
+                    -90.306,
+                    38.66
+                ],
+                "zoom": 15,
+                "label": "The Loop — Delmar Blvd, University City",
+                "layers": [
+                    {
+                        "id": "stl_neighborhoods",
+                        "visible": false
+                    },
+                    {
+                        "id": "stl_neighborhoods_labels",
+                        "visible": false
+                    },
+                    {
+                        "id": "municipalities",
+                        "visible": true
+                    },
+                    {
+                        "id": "coffee_shops",
+                        "visible": true
+                    },
+                    {
+                        "id": "bookstores",
+                        "visible": true
+                    }
+                ]
+            }
+        },
+        {
+            "navLabel": "Clayton",
+            "title": "Clayton — The County Seat",
+            "text": [
+                "Clayton is the seat of St. Louis County government and a major employment center in its own right. Its downtown — centered on Forsyth Boulevard — has evolved from a quiet administrative hub into a sophisticated urban village.",
+                "The city punches above its weight: it has the density of a small downtown, an active restaurant and arts scene, and some of the county's most walkable blocks."
+            ],
+            "scene": {
+                "center": [
+                    -90.334,
+                    38.644
+                ],
+                "zoom": 14,
+                "label": "Clayton, Missouri",
+                "layers": [
+                    {
+                        "id": "osm",
+                        "visible": true
+                    },
+                    {
+                        "id": "mo_counties",
+                        "visible": false
+                    },
+                    {
+                        "id": "stl_neighborhoods",
+                        "visible": false
+                    },
+                    {
+                        "id": "stl_neighborhoods_labels",
+                        "visible": false
+                    },
+                    {
+                        "id": "municipalities",
+                        "visible": true
+                    },
+                    {
+                        "id": "coffee_shops",
+                        "visible": true
+                    },
+                    {
+                        "id": "bookstores",
+                        "visible": true
+                    }
+                ]
+            },
+            "callout": "Clayton regularly appears among the top places to live and work in the Midwest — a rare combination of urban energy and suburban calm."
+        },
+        {
+            "navLabel": "Webster Groves",
+            "title": "Webster Groves — Victorian Character",
+            "text": [
+                "Webster Groves is one of Missouri's oldest suburbs, platted in the 1890s along the Frisco Railroad. Its streets of Victorian and Craftsman homes have changed little structurally, giving it an unusually intact historic fabric.",
+                "Novel Neighbor and Kaldi's Coffee sit just blocks apart on Big Bend, forming one of the county's best casual literary corners."
+            ],
+            "scene": {
+                "center": [
+                    -90.356,
+                    38.593
+                ],
+                "zoom": 14,
+                "label": "Webster Groves, Missouri",
+                "layers": [
+                    {
+                        "id": "stl_neighborhoods",
+                        "visible": false
+                    },
+                    {
+                        "id": "stl_neighborhoods_labels",
+                        "visible": false
+                    },
+                    {
+                        "id": "municipalities",
+                        "visible": true
+                    },
+                    {
+                        "id": "coffee_shops",
+                        "visible": true
+                    },
+                    {
+                        "id": "bookstores",
+                        "visible": true
+                    }
+                ]
+            }
+        },
+        {
+            "navLabel": "Maplewood",
+            "title": "Maplewood — The Manchester Strip",
+            "text": [
+                "Maplewood occupies just 1.4 square miles but has an outsized personality. Manchester Road is its main artery — a lively corridor of craft breweries, eclectic boutiques, and some of the county's best independent food and coffee.",
+                "Coma Coffee Roasters exemplifies the neighborhood's ethos: serious craft with a relaxed, unpretentious attitude."
+            ],
+            "scene": {
+                "center": [
+                    -90.319,
+                    38.617
+                ],
+                "zoom": 15,
+                "label": "Maplewood — Manchester Road",
+                "layers": [
+                    {
+                        "id": "stl_neighborhoods",
+                        "visible": false
+                    },
+                    {
+                        "id": "stl_neighborhoods_labels",
+                        "visible": false
+                    },
+                    {
+                        "id": "municipalities",
+                        "visible": true
+                    },
+                    {
+                        "id": "coffee_shops",
+                        "visible": true
+                    },
+                    {
+                        "id": "bookstores",
+                        "visible": false
+                    }
+                ]
+            }
+        },
+        {
+            "navLabel": "Kirkwood",
+            "title": "Kirkwood — The First Suburb",
+            "text": [
+                "Kirkwood was platted in 1853 as the first planned suburban community west of the Mississippi River, designed deliberately away from the smoke and congestion of St. Louis — and specifically oriented around the railroad.",
+                "Today its historic downtown retains much of that original DNA: a walkable grid, a functioning Amtrak station, and places like Picasso's Coffee House that have become neighborhood institutions."
+            ],
+            "callout": "Kirkwood's station is one of the few in the country where an active Amtrak stop sits in the middle of a walkable historic downtown.",
+            "scene": {
+                "center": [
+                    -90.406,
+                    38.584
+                ],
+                "zoom": 14,
+                "label": "Kirkwood, Missouri",
+                "layers": [
+                    {
+                        "id": "topo",
+                        "visible": true
+                    },
+                    {
+                        "id": "mo_counties",
+                        "visible": true
+                    },
+                    {
+                        "id": "stl_neighborhoods",
+                        "visible": false
+                    },
+                    {
+                        "id": "stl_neighborhoods_labels",
+                        "visible": false
+                    },
+                    {
+                        "id": "municipalities",
+                        "visible": true
+                    },
+                    {
+                        "id": "coffee_shops",
+                        "visible": true
+                    },
+                    {
+                        "id": "bookstores",
+                        "visible": true
+                    },
+                    {
+                        "id": "import_json",
+                        "visible": true
+                    }
+                ]
+            }
+        },
+        {
+            "navLabel": "East St. Louis County",
+            "title": "East St. Louis County",
+            "text": [
+                "East St. Louis County is a patchwork of historic suburbs, distinct neighborhoods, and communities that grew up alongside the railroad and the Mississippi. Each municipality has its own character — from the government towers of Clayton to the Victorian porches of Webster Groves.",
+                "This story explores the cities, neighborhoods, coffee shops, and bookstores that give the area its texture and identity. Scroll down to explore the geography."
+            ],
+            "scene": {
+                "center": [
+                    -90.31601,
+                    38.62452
+                ],
+                "zoom": 13.34,
+                "label": "East St. Louis County",
+                "layers": [
+                    {
+                        "id": "osm",
+                        "visible": true
+                    },
+                    {
+                        "id": "mo_counties",
+                        "visible": false
+                    },
+                    {
+                        "id": "wms_geo",
+                        "visible": true
+                    },
+                    {
+                        "id": "stl_neighborhoods",
+                        "visible": false
+                    },
+                    {
+                        "id": "stl_neighborhoods_labels",
+                        "visible": false
+                    },
+                    {
+                        "id": "municipalities",
+                        "visible": false
+                    },
+                    {
+                        "id": "coffee_shops",
+                        "visible": false
+                    },
+                    {
+                        "id": "bookstores",
+                        "visible": false
+                    },
+                    {
+                        "id": "import_json",
+                        "visible": false
+                    },
+                    {
+                        "id": "femarest2",
+                        "visible": false
+                    },
+                    {
+                        "id": "fire",
+                        "visible": false
+                    }
+                ]
+            }
+        },
+        {
+            "navLabel": "The Full Picture",
+            "title": "The County in Context",
+            "text": [
+                "Zooming back out, what strikes you about St. Louis County is the sheer density of distinct communities packed into a relatively compact geography. Over 90 incorporated municipalities occupy the county.",
+                "That fragmentation is both a strength and a challenge — it produces hyper-local character and identity, but also fragments governance, services, and regional coordination.",
+                "The coffee shops and bookstores scattered across this map are more than amenities. They are the gathering places where community identity gets built and maintained, one conversation at a time."
+            ],
+            "scene": {
+                "center": [
+                    -90.09,
+                    38.63
+                ],
+                "zoom": 10,
+                "label": "St. Louis County — Full Extent",
+                "layers": [
+                    {
+                        "id": "stl_neighborhoods",
+                        "visible": true
+                    },
+                    {
+                        "id": "stl_neighborhoods_labels",
+                        "visible": true
+                    },
+                    {
+                        "id": "satellite",
+                        "visible": true
+                    },
+                    {
+                        "id": "municipalities",
+                        "visible": true
+                    },
+                    {
+                        "id": "coffee_shops",
+                        "visible": true
+                    },
+                    {
+                        "id": "bookstores",
+                        "visible": true
+                    },
+                    {
+                        "id": "mo_counties",
+                        "visible": true
+                    }
+                ]
+            }
+        },
+        {
+            "navLabel": "New Section",
+            "title": "Downtown Clayton",
+            "text": [
+                "Start writing your narrative here."
+            ],
+            "scene": {
+                "center": [
+                    -90.09,
+                    38.63
+                ],
+                "zoom": 11,
+                "layers": [],
+                "media": {
+                    "type": "pdf",
+                    "src": "https://geo.edesma.org/img/Downtown_Clayton_Map.pdf",
+                    "caption": "Downtown map. City of Clayton."
+                }
+            }
+        },
+        {
+            "navLabel": "New Section",
+            "title": "2024 Livable Community Master Plan",
+            "text": [
+                "Start writing your narrative here."
+            ],
+            "scene": {
+                "center": [
+                    -90.09,
+                    38.63
+                ],
+                "zoom": 11,
+                "layers": [],
+                "media": {
+                    "type": "pdf",
+                    "src": "https://geo.edesma.org/img/2024_Livable_Community_Master_Plan.pdf"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,3567 @@
+{
+  "type" : "FeatureCollection", 
+  "features" : [
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.2188562117906, 38.8279121764493
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "BISSELL HALL"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.2188562117906, 38.8279121764493
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "TWIN RIVERS"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.2188852113415, 38.827959176825
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "FORT BELLEFONTAINE CAMPUS"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.2188562117906, 38.8279121764493
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "SPANISH LAKE CAMPUS"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.2188562117906, 38.8279121764493
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "LEWIS AND CLARK HALL"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.6888813267953, 38.6348841168959
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "BABLER LODGE"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.2188562117906, 38.8279121764493
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "DISCOVERY HALL"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.2963182200574, 38.6694921443154
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "MET DAY TREATMENT CENTER"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.7009603182289, 38.4907500903872
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "MISSOURI EASTERN CORR CENTER"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3393292225155, 38.561587122432
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "GOTSCH INTERMEDIATE SCH."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3363662212432, 38.5556831217475
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "MESNIER PRIMARY SCH."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3243922182178, 38.5595961227658
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "AFFTON HIGH"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3172572174851, 38.5731611252198
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "ROGERS MIDDLE"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3007202111575, 38.5529581224537
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "BAYLESS ELEMENTARY"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3014562110542, 38.5520551228778
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "BAYLESS SENIOR HIGH"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3003512110405, 38.5519621222271
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "BAYLESS JUNIOR HIGH"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3539202318396, 38.6212461326274
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "BRENTWOOD HIGH"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3437922291918, 38.6165291315153
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "MARK TWAIN ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3547882323185, 38.6186311320271
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "MCGRATH ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3540482323388, 38.6207351323459
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "BRENTWOOD MIDDLE"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.339530228126, 38.6238261332141
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "BRENTWOOD EARLY CHILDHD CENTER"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3290652268649, 38.6395091367672
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "GLENRIDGE ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3399062302821, 38.644973137351
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "MERAMEC ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3125022221791, 38.6423501378598
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "RALPH M. CAPTAIN ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3467522326525, 38.6497631375168
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "CLAYTON HIGH"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.348630233195, 38.6573441394508
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "FAMILY CTR."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3120062216535, 38.6423931380778
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "WYDOWN MIDDLE"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3048132340652, 38.8094261686661
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "CROSS KEYS MIDDLE"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.2945282246402, 38.7268301540127
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "BERMUDA ELEMENTARY"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3079812296441, 38.7428601561829
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "CENTRAL ELEMENTARY"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3304002397901, 38.7920011646168
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "COMBS ELEMENTARY"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.2875542274461, 38.7888351659907
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "COMMONS LANE ELEMENTARY"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3226152368334, 38.7850901634395
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "DUCHESNE ELEMENTARY"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3148272325736, 38.7541261584801
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "FERGUSON MIDDLE"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.2890492251222, 38.74991715923
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "GRIFFITH ELEMENTARY"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.294489230882, 38.799761167829
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "HALLS FERRY ELEMENTARY"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.345359238195, 38.7237921509922
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "HOLMAN ELEMENTARY"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3007392285203, 38.7571831595523
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "LEE HAMILTON ELEMENTARY"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3033972323615, 38.7901461655959
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "MCCLUER NORTH HIGH"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3107812325073, 38.771522161854
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "MCCLUER HIGH"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3034402329703, 38.7949461665782
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "PARKER ROAD ELEMENTARY"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3059382325981, 38.7814861638429
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "ROBINWOOD ELEMENTARY"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3120762327428, 38.7657881607283
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "WALNUT GROVE ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3029352343064, 38.8110391687956
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "WEDGWOOD 6TH GRADE CENTER"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3422182419034, 38.7779861608786
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "EARLY EDUCATION CENTER"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3047712273248, 38.7326121549573
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "STEAM ACADEMY AT MSB HIGH SCHO"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3137832319326, 38.7556691589226
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "JOHNSON WABASH 6TH GRADE CTR"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3263642360474, 38.7611571587221
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "BERKELEY ELEMENTARY SCHOOL"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3047442274121, 38.7272521541276
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "THE INNOVATION SCHOOL AT CV"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3422182419034, 38.7779861608786
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "STEAM ACADEMY MIDDLE SCHOOL"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.2810462034065, 38.524763118567
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "HANCOCK SR. HIGH"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.2729382023878, 38.5370851210841
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "HANCOCK PLACE ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.2825202034429, 38.5247371181859
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "HANCOCK PLACE MIDDLE"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.2961742338875, 38.8354251739553
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "BARRINGTON ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3799492528144, 38.7842501602031
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "ARMSTRONG ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.2635192202245, 38.7776941649892
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "KEEVEN ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3198352404684, 38.831725172287
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "BROWN ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3554742486887, 38.8059081659076
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "LAWSON ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3254272413041, 38.8258601702675
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "COLD WATER ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3974442570526, 38.7753721574636
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "GARRETT ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.2430652149747, 38.781751166826
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "GRANNEMANN ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.315374239367, 38.8308731717496
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "HAZELWOOD CENTRAL HIGH"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3444412459757, 38.8181721685799
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "NORTHWEST MIDDLE"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3817822535034, 38.7863631608016
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "HAZELWOOD WEST HIGH"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.2534682198792, 38.8106751716351
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "JAMESTOWN ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3181762385716, 38.8158411690695
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "JANA ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.2699702227674, 38.7883851667669
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "JURY ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.2355352122664, 38.7761111660186
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "EAST MIDDLE"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.1979712026311, 38.7889311706463
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "LARIMORE ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3483422469431, 38.8163291675885
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "LUSHER ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3426562448985, 38.8065811662636
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "MCCURDY ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3588122476121, 38.7912351627318
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "MCNAIR ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3693502512817, 38.7957011629863
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "RUSSELL ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.2376052149716, 38.7993481705868
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "TOWNSEND ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.2182462076934, 38.7851141691384
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "TWILLMAN ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.337004244111, 38.8140021674766
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "WALKER ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.315374239367, 38.8308731717496
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "ELEM. SPECIAL PROGRAMS DEPT."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.2355352122664, 38.7761111660186
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "HAZELWOOD EAST HIGH"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.4125502623178, 38.7810361580802
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "WEST MIDDLE"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.2272902123345, 38.8121351731542
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "ARROWPOINT ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.2525742191207, 38.8031201699578
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "CENTRAL MIDDLE"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.2884612324815, 38.839089174915
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "NORTH MIDDLE"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.1956982006859, 38.7795041687091
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "SOUTHEAST MIDDLE"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3974602584808, 38.7833471588445
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "WEST EARLY CHILDHOOD CENTER"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.2385042148015, 38.8038651710135
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "EAST EARLY CHILDHOOD CENTER"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3155452394143, 38.8332811726027
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "CENTRAL EARLY CHILDHOOD CENTER"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.2684142160388, 38.7126711536879
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "FAIRVIEW PRIMARY"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.257964214519, 38.7276761564261
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "ROSE JOHNSON JENNINGS JR. HIGH"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.2519662124787, 38.7294461568458
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "NORTHVIEW ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.2555242136851, 38.7271751567422
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "JENNINGS HIGH"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.2714132177234, 38.7248301552641
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "WOODLAND ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.2708352180603, 38.726866156023
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "KENNETH C. HANRAHAN ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.2688292155319, 38.7129501530928
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "FAIRVIEW INTERMEDIATE"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.4024112437125, 38.5956411254907
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "F. P. TILLMAN ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.4259572475751, 38.5699471191353
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "GEORGE R. ROBINSON ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.4057522420152, 38.5718281209395
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "NIPHER MIDDLE"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.387126238669, 38.5949471256369
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "NORTH GLENDALE ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.4192522484628, 38.6005871251619
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "NORTH KIRKWOOD MIDDLE"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.4222782486667, 38.5912481234205
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "KIRKWOOD SR. HIGH"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.4165842471391, 38.5917821232594
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "W. W. KEYSOR ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.4235742496618, 38.6044441254335
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "WESTCHESTER ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3859402373711, 38.5816131235229
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "KIRKWOOD EARLY CHILD. CTR."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3927792448854, 38.6401861332974
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "CONWAY ELEMENTARY"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3859742430691, 38.6406751338095
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "LADUE MIDDLE"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3973132456853, 38.6400081338124
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "LADUE HORTON WATKINS HIGH"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3890152462863, 38.669092138926
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "OLD BONHOMME ELEMENTARY"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3636172374525, 38.6527161375477
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "REED ELEMENTARY"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.4163002526263, 38.6631111366917
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "SPOEDE ELEMENTARY"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.4197752529843, 38.6538901349959
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "LADUE FIFTH GRADE CENTER"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.4192932531521, 38.6544451346349
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "LADUE EARLY CHILDHOOD CENTER"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3835362358079, 38.5633891199137
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "CRESTWOOD ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3777302290978, 38.5109071114665
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "KENNERLY ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3812102334856, 38.546545117235
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "LONG ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3674862274317, 38.5175921130246
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "ROBERT H. SPERRENG MIDDLE"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3649232284535, 38.5427101177046
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "SAPPINGTON ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3752342299549, 38.529222114153
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "LINDBERGH SR. HIGH"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3706422285219, 38.5218161132635
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "CONCORD ELEM. SCHOOL"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3982482378897, 38.5456921164253
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "TRUMAN MIDDLE SCHOOL"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3985372378704, 38.54642811631
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "EARLY CHILDHOOD ED CENTER WEST"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3485312233115, 38.5313711161104
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "DRESSEL ELEMENTARY SCHOOL"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3244882227999, 38.6141681329366
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "MAPLEWOOD-RICHMOND HGTS. HIGH"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3266052236931, 38.6118181319487
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "MRH EARLY CHILDHOOD CENTER"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3244882227999, 38.6141681329366
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "MRH MIDDLE"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3146152213922, 38.6224161348898
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "MRH ELEMENTARY"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3987142314959, 38.4695091021512
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "HAGEMANN ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.2871812023485, 38.4961701128933
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "BEASLEY ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3102932118285, 38.5303791180416
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "BIERBAUM ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3326742146634, 38.4826791082704
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "BLADES ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.307420209416, 38.5040741135447
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "MARGARET BUERKLE MIDDLE"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3144022121047, 38.5125311144063
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "MEHLVILLE HIGH SCHOOL"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3207542107682, 38.4785451081557
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "OAKVILLE ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3031642042913, 38.4598661058419
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "OAKVILLE MIDDLE"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3214482100569, 38.4721931072217
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "OAKVILLE SR. HIGH"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3212032077236, 38.4405461007788
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "POINT ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3686022250954, 38.4944391085586
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "TRAUTWEIN ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3710772255203, 38.4921901077308
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "WASHINGTON MIDDLE"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3045122047248, 38.4592191054955
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "WOHLWEND ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.2869512048765, 38.524746118372
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "FORDER ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3366912104977, 38.419853097033
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "ROGERS ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.2859462024053, 38.493777112786
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "JOHN CARY EARLY CHILDHOOD CTR."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.326392213842, 38.4951871112105
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "BERNARD MIDDLE"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3148452122943, 38.5163361151739
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "MOSAIC ELEMENTARY"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3140642117925, 38.5134921148481
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "At Home Academy"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.2943502230396, 38.7100271513305
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "JEFFERSON ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.2973552216288, 38.6826691463607
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "NORMANDY HIGH"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3277362301979, 38.6845711446898
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "WASHINGTON ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.306278225905, 38.708161150652
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "LUCAS CROSSING ELEM. COMPLEX"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.2772792164936, 38.6932931491292
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "BARACK OBAMA ELEMENTARY SCHOOL"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3086192265893, 38.7080471506475
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "NORMANDY EARLY LEARNING CENTER"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3192362300336, 38.7091101498401
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "BEL-NOR"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.4718062609373, 38.5757701174217
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "BARRETTS ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.476213270259, 38.6708801343872
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "BELLERIVE ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.492954267867, 38.5831931182269
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "CARMAN TRAILS ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.5043322774556, 38.6642241323344
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "CENTRAL HIGH"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.5503872862656, 38.6101561197261
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "CLAYMONT ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.4417042621485, 38.6842941393747
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "CRAIG ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.5275732850474, 38.6690641321507
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "GREEN TRAILS ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.5091612721383, 38.5794631164648
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "HANNA WOODS ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.519366277034, 38.6109351214455
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "HENRY ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.5499032892643, 38.644955126401
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "HIGHCROFT RIDGE ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.4817562691436, 38.6371941286104
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "MASON RIDGE ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.4566162682548, 38.7104481425128
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "MCKELVEY INTERMEDIATE"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.4681762695589, 38.6902661383684
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "NORTH HIGH"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.5123662722335, 38.5769601155315
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "SOUTH HIGH"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.5001072714432, 38.6039171213079
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "PIERREMONT ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.505097279498, 38.6831991357105
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "RIVER BEND ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.4581222662822, 38.6801221378219
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "ROSS ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.5384642865085, 38.6561221286726
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "SHENANDOAH VALLEY ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.5320342780147, 38.5746181148942
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "SORRENTO SPRINGS ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.5342682823586, 38.6229851227453
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "WEST HIGH"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.5217752753207, 38.5773091159074
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "WREN HOLLOW ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.5184872747804, 38.5775571158699
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "SOUTHWEST MIDDLE"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.5037742779754, 38.6680591327406
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "CENTRAL MIDDLE"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.4505502620348, 38.6581371339467
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "NORTHEAST MIDDLE"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.507372274493, 38.6102241224333
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "SOUTH MIDDLE"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.5442772853715, 38.6229521224906
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "WEST MIDDLE"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.5396582793604, 38.5659771128518
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "OAK BROOK ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.5317532816004, 38.6219631232273
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "EARLY CHILDHOOD"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.4633032686731, 38.6945681399369
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "MCKELVEY PRIMARY"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3954072536673, 38.7368701512685
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "PATTONVILLE Early CHol"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.41986626082, 38.7381781502813
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "BRIDGEWAY ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3944502533451, 38.7370051512735
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "HOLMAN MIDDLE"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.4353462648571, 38.736961148883
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "PARKWOOD ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.4263472602783, 38.7176871455892
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "PATTONVILLE HEIGHTS MIDDLE"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.4226482596352, 38.7188861464334
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "TRADITIONAL SCH."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.4558522701814, 38.737251147739
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "ROSE ACRES ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.4546752708193, 38.7417551485716
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "PATTONVILLE SR. HIGH"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.4095662531445, 38.6839521405181
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "WILLOW BROOK ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3895872509547, 38.7288451496749
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "ROBERT DRUMMOND ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.4055402540265, 38.7121271455871
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "PATTONVILLE EARLY CHILDHOOD"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3868452496548, 38.7184841476913
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "HOECH MIDDLE"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3832822467684, 38.6932981438018
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "IVELAND ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3659282443877, 38.7315401515786
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "KRATZ ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3764462455136, 38.7066651460595
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "MARION ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3589522414388, 38.7169451489544
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "MARVIN ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3482062372388, 38.7034031476118
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "RITENOUR MIDDLE"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3571872408128, 38.7102131485504
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "RITENOUR SR. HIGH"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3564082392639, 38.6940741451648
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "WYLAND ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3856952487866, 38.7117891471699
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "BUDER ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3584332418174, 38.7190041498755
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "RITENOUR EARLY CHILDHOOD CTR"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.2324352091078, 38.7489841612758
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "GIBSON ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.2344302077711, 38.734168158738
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "DANFORTH ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.2061742020224, 38.7587711651892
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "GLASGOW ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.2642952171658, 38.7416301590893
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "KOCH ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.2693042197823, 38.7573371611386
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "LEMASTERS ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.2426172127412, 38.7568621621329
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "LEWIS AND CLARK ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.2511822135994, 38.7472491600088
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "MEADOWS ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.2123672039884, 38.7554911641005
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "RIVERVIEW GARDENS SR. HIGH"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.2375842103161, 38.7458941609441
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "R. G. CENTRAL MIDDLE"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.1975651997435, 38.7546321646788
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "HIGHLAND ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.262249216653, 38.7414511590036
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "Westview Middle School"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.2652852177974, 38.7482321598112
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "MOLINE ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.2329392079059, 38.7349121590859
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "EARLY CHILD. EDUCATION"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.2961152289517, 38.7784871640152
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "ACKERMAN"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.4047942461058, 38.6244551301403
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "LITZSINGER"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.2938672290707, 38.7796031636384
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "NORTH TECHNICAL"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.4134952417163, 38.5422361148095
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "SOUTH TECHNICAL"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3814722327653, 38.5431721166466
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "SOUTHVIEW"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.4409492577145, 38.6318241294563
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "EXTERNAL SITES"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3433482307987, 38.6450051368536
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "JUVENILE DETENTION CTR."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.2958792289102, 38.7798391636665
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "NORTHVIEW"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.4417522571203, 38.6309061291827
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "HIRAM NEUWOEHNER"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3814722327653, 38.5431721166466
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "SOUTHVIEW HIGH"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.5829802959311, 38.624001120458
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "MARQUETTE SR. HIGH"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.4938002620039, 38.5178391061791
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "ROCKWOOD SUMMIT SR. HIGH"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.5921192975101, 38.60594711693
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "CRESTVIEW MIDDLE"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.6387673059441, 38.551840105181
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "LASALLE SPRINGS MIDDLE"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.4969512628595, 38.5114081050599
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "ROCKWOOD SOUTH MIDDLE"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.5595082865731, 38.5869411155854
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "SELVIDGE MIDDLE"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.5428212825104, 38.5905821168502
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "BALLWIN ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.4762232572396, 38.5123101065326
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "BOWLES ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.636029313549, 38.6540811234777
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "CHESTERFIELD ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.5912042964987, 38.5962351152175
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "ELLISVILLE ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.6622193085953, 38.5105380957075
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "EUREKA ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.6287233000188, 38.515484098913
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "EUREKA SR. HIGH"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.6301302989277, 38.49641209542
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "GEGGIE ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.4943102618484, 38.5127031048968
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "KELLISON ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.6375393093536, 38.595559112964
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "LAFAYETTE SR. HIGH"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.6519303119101, 38.5790341088996
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "POND ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.4826362596212, 38.5209071076053
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "STANTON ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.5678102898915, 38.6017181175752
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "WESTRIDGE ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.5570462850937, 38.5802481143245
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "WOERTHER ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.6275253057104, 38.5908851120427
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "GREEN PINES ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.6014012971799, 38.5720411106635
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "RIDGE MEADOWS ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.6416133107591, 38.5996811129237
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "BABLER ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.5763112937022, 38.6194411201421
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "KEHRS MILL ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.4644782556443, 38.5350341105716
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "UTHOFF VALLEY ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.6629903179342, 38.6120101142046
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "ROCKWOOD VALLEY MIDDLE"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.5940862959882, 38.5830841123751
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "CENTER FOR CREATIVE LEARNING"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.5858193002257, 38.6588641272183
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "WILD HORSE ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.6256392986294, 38.5107530976845
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "BLEVINS ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.6613343150588, 38.5828671095892
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "WILDWOOD MIDDLE"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.593438297626, 38.606826117085
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "ROCKWOOD CTR. EARLY CHILD. ED."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.6196913019034, 38.5688441091852
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "FAIRWAY ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3087692222291, 38.659681141813
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "JULIA GOLDSTEIN EARLY CHILD."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3468402348421, 38.6803041430956
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "BARBARA JORDAN ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3225272260272, 38.6538971395164
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "FLYNN PARK ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3292392289033, 38.6637001415442
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "JACKSON PARK ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3099962239279, 38.6658941425017
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "PERSHING ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3295262288562, 38.6651921413549
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "UNIVERSITY CITY SR. HIGH"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3464602342707, 38.6694311415629
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "BRITTANY WOODS"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.4943502652298, 38.5519451122112
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "VALLEY PARK MIDDLE"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.4943502652298, 38.5519451122112
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "VALLEY PARK ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.4943502652298, 38.5519451122112
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "VALLEY PARK SR. HIGH"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3441282275409, 38.6041401299041
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "AVERY ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3604532312078, 38.5922661270177
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "BRISTOL ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3692502323147, 38.5752861228593
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "CLARK ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3483932266327, 38.5719071239954
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "EDGAR ROAD ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3574792297488, 38.5795871247432
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "HIXSON MIDDLE"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3483222275774, 38.5900881266433
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "WEBSTER GROVES HIGH"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.373474236912, 38.6091841289628
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "HUDSON ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3655712341049, 38.6048411288611
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "DR. HENRY GIVENS JR. ELEM."
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.361993231558, 38.5916481262053
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "WALTER AMBROSE FAMILY CENTER"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -90.3134762259327, 38.6837991456696
+        ]
+      }, 
+      "properties" : {
+        "NAME" : "THE LEADERSHIP SCHOOL"
+      }
+    }
+  ]
+}

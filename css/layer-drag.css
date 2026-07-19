@@ -1,0 +1,42 @@
+
+/* ── Layer row drag-and-drop ── */
+.lm-row {
+  cursor: default;
+}
+.lm-row[draggable="true"] {
+  cursor: grab;
+}
+.lm-row[draggable="true"]:active {
+  cursor: grabbing;
+}
+.lm-row.dragging {
+  opacity: 0.4;
+}
+.lm-row.drag-over {
+  border-color: var(--accent-2);
+  background: rgba(41,128,185,0.07);
+  box-shadow: 0 0 0 2px rgba(41,128,185,0.25);
+}
+
+.lm-drag-handle {
+  color: var(--ink-faint);
+  font-size: 1rem;
+  cursor: grab;
+  flex-shrink: 0;
+  padding-right: 4px;
+  line-height: 1;
+  user-select: none;
+}
+.lm-drag-handle:active { cursor: grabbing; }
+
+/* ── Delete story button ── */
+.hdr-btn-danger {
+  background: rgba(192,57,43,0.15);
+  border-color: rgba(192,57,43,0.4);
+  color: #e74c3c;
+}
+.hdr-btn-danger:hover {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: white;
+}

@@ -1,0 +1,150 @@
+{
+    "title": "City of Clayton",
+    "subtitle": "",
+    "author": "",
+    "map": {
+        "center": [
+            -90.09,
+            38.63
+        ],
+        "zoom": 11,
+        "basemaps": [
+            {
+                "id": "osm",
+                "type": "osm",
+                "label": "OpenStreetMap"
+            },
+            {
+                "id": "esri_topo",
+                "type": "xyz",
+                "label": "Esri Topo",
+                "url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}",
+                "attribution": "Tiles © Esri, HERE, Garmin, FAO, NOAA, USGS"
+            },
+            {
+                "id": "esri_street",
+                "type": "xyz",
+                "label": "Esri Street",
+                "url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}",
+                "attribution": "Tiles © Esri, USGS, HERE, Garmin"
+            },
+            {
+                "id": "esri_imagery",
+                "type": "xyz",
+                "label": "Esri Imagery",
+                "url": "https://server.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
+                "attribution": "Tiles © Esri, USGS, Garmin, Earthstar Geographics"
+            }
+        ],
+        "wmsLayers": [],
+        "vectorLayers": [
+            {
+                "id": "City_of_Clayton",
+                "label": "City of Clayton",
+                "visible": true,
+                "showInPanel": true,
+                "qlrUrl": "stories/data/City_of_Clayton.qlr",
+                "type": "qlr",
+                "labelsEnabled": true,
+                "url": "stories/data/City_of_Clayton.geojson"
+            },
+            {
+                "id": "STL_County_1",
+                "label": "Saint Louis County",
+                "visible": true,
+                "showInPanel": true,
+                "qlrUrl": "stories/data/SLT_County_1.qlr",
+                "type": "qlr",
+                "labelsEnabled": true,
+                "url": "stories/data/SLT_County_1.geojson"
+            }
+        ]
+    },
+    "sections": [
+        {
+            "navLabel": "Introduction",
+            "title": "City of Clayton",
+            "text": [
+                "Start writing your story here."
+            ],
+            "scene": {
+                "center": [
+                    -90.38861,
+                    38.66072
+                ],
+                "zoom": 10.54,
+                "layers": [
+                    {
+                        "id": "osm",
+                        "visible": true
+                    },
+                    {
+                        "id": "STL_County_1",
+                        "visible": true
+                    },
+                    {
+                        "id": "City_of_Clayton",
+                        "visible": true
+                    }
+                ]
+            }
+        },
+        {
+            "navLabel": "New Section",
+            "title": "New Section",
+            "text": [
+                "Start writLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.ing your narrative here."
+            ],
+            "scene": {
+                "center": [
+                    -90.09,
+                    38.63
+                ],
+                "zoom": 11,
+                "layers": [
+                    {
+                        "id": "osm",
+                        "visible": true
+                    }
+                ]
+            },
+            "callout": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. "
+        },
+        {
+            "navLabel": "New Section",
+            "title": "Phasellus dapibus",
+            "text": [
+                "<span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);\">Phasellus dapibus libero sit amet vulputate bibendum. In ut ultricies ex. Nunc efficitur dui sit amet placerat laoreet. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur tempor purus aliquam, lobortis quam non, finibus orci. Aenean et purus quis odio sagittis luctus ut placerat ipsum. Donec tempus congue ornare. Nullam faucibus, sapien eget sodales vestibulum, est sapien congue sapien, eget vehicula quam metus ac turpis. Fusce arcu est, aliquet et urna ut, tempor maximus dolor. Mauris finibus ligula et nunc pellentesque, id mattis orci pulvinar. Donec sagittis ipsum sapien, non convallis purus venenatis et. Nam porttitor dignissim mollis. In quis semper nibh. Nulla pharetra sapien vitae ipsum facilisis, sed tincidunt metus varius. Donec id ultricies orci.</span> your narrative here."
+            ],
+            "scene": {
+                "center": [
+                    -90.09,
+                    38.63
+                ],
+                "zoom": 11,
+                "layers": [
+                    {
+                        "id": "esri_imagery",
+                        "visible": true
+                    }
+                ]
+            },
+            "callout": " Nullam faucibus, sapien eget sodales vestibulum, est sapien congue sapien, eget vehicula quam metus ac turpis. "
+        },
+        {
+            "navLabel": "Brentwood",
+            "title": "Brentwood",
+            "text": [
+                "Start writing your<span style=\"background-color: rgb(255, 255, 255); color: rgb(33, 37, 41);\">Qui magnam earum hic amet distinctio ab perspiciatis enim est amet earum ut voluptatem officiis qui dolores harum. Cum eveniet exercitationem qui enim vitae est provident magnam eum minima deleniti. Eos distinctio dicta aut mollitia perspiciatis aut quia soluta sit odio dolores. Ea corrupti debitis et porro ipsa ad ratione eius rem repudiandae aliquam?</span> narrative here."
+            ],
+            "scene": {
+                "center": [
+                    -90.34753,
+                    38.61812
+                ],
+                "zoom": 14.77,
+                "layers": []
+            }
+        }
+    ]
+}

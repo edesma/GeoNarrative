@@ -1,0 +1,58 @@
+{
+    "title": "Story to Delete",
+    "subtitle": "",
+    "author": "",
+    "map": {
+        "center": [
+            -90.09,
+            38.63
+        ],
+        "zoom": 11,
+        "basemaps": [
+            {
+                "id": "osm",
+                "type": "osm",
+                "label": "Street Map"
+            },
+            {
+                "id": "satellite",
+                "type": "xyz",
+                "label": "Satellite",
+                "url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}"
+            }
+        ],
+        "wmsLayers": [],
+        "vectorLayers": [
+            {
+                "id": "cnty_bndry",
+                "label": "Saint Louis County",
+                "visible": true,
+                "showInPanel": true,
+                "style": {
+                    "type": "polygon",
+                    "fill": "rgba(41,128,185,0)",
+                    "stroke": "#0d0d0d",
+                    "strokeWidth": 1.5
+                },
+                "url": "https://geo.edesma.org/geojson/SLCountyNeighborhoods.json"
+            }
+        ]
+    },
+    "sections": [
+        {
+            "navLabel": "Introduction",
+            "title": "Story to Delete",
+            "text": [
+                "Start writing your story here."
+            ],
+            "scene": {
+                "center": [
+                    -90.09,
+                    38.63
+                ],
+                "zoom": 11,
+                "layers": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "title": "Bicycling Denver",
+    "subtitle": "",
+    "author": "Edesma",
+    "map": {
+        "center": [
+            -90.09,
+            38.63
+        ],
+        "zoom": 11,
+        "basemaps": [
+            {
+                "id": "osm",
+                "type": "osm",
+                "label": "OpenStreetMap"
+            },
+            {
+                "id": "esri_topo",
+                "type": "xyz",
+                "label": "Esri Topo",
+                "url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}",
+                "attribution": "Tiles © Esri, HERE, Garmin, FAO, NOAA, USGS"
+            },
+            {
+                "id": "esri_street",
+                "type": "xyz",
+                "label": "Esri Street",
+                "url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}",
+                "attribution": "Tiles © Esri, USGS, HERE, Garmin"
+            },
+            {
+                "id": "esri_imagery",
+                "type": "xyz",
+                "label": "Esri Imagery",
+                "url": "https://server.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
+                "attribution": "Tiles © Esri, USGS, Garmin, Earthstar Geographics"
+            },
+            {
+                "id": "esri_natgeo",
+                "type": "xyz",
+                "label": "Esri NatGeo",
+                "url": "https://server.arcgisonline.com/arcgis/rest/services/NatGeo_World_Map/MapServer/tile/{z}/{y}/{x}",
+                "attribution": "Tiles © Esri, National Geographic, USGS, NASA"
+            },
+            {
+                "id": "open_topo",
+                "type": "xyz",
+                "label": "OpenTopo",
+                "url": "https://tile.opentopomap.org/{z}/{x}/{y}.png",
+                "attribution": "© OpenTopoMap contributors"
+            }
+        ],
+        "wmsLayers": [],
+        "vectorLayers": [
+            {
+                "id": "bikelanes",
+                "label": "Bicycle Facilities",
+                "visible": true,
+                "showInPanel": true,
+                "qlrUrl": "stories/data/Denver_Bicycle_Facilities.qlr",
+                "type": "qlr",
+                "labelsEnabled": false,
+                "url": "stories/data/DenverExistingBicycleFacilities.geojson"
+            },
+            {
+                "id": "poitns",
+                "label": "Ramps",
+                "visible": true,
+                "showInPanel": true,
+                "qlrUrl": "stories/data/Bicycle_Ramps.qlr",
+                "type": "qlr",
+                "labelsEnabled": false,
+                "url": "stories/data/Bicycle_Ramps.geojson"
+            }
+        ]
+    },
+    "sections": [
+        {
+            "navLabel": "Introduction",
+            "title": "Bicycling Denver",
+            "text": [
+                "Start writing your story here."
+            ],
+            "scene": {
+                "center": [
+                    -104.96383,
+                    39.73562
+                ],
+                "zoom": 13.34,
+                "layers": [
+                    {
+                        "id": "osm",
+                        "visible": true
+                    },
+                    {
+                        "id": "bikelanes",
+                        "visible": true
+                    },
+                    {
+                        "id": "poitns",
+                        "visible": true
+                    }
+                ]
+            }
+        }
+    ]
+}
